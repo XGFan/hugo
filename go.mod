@@ -34,6 +34,7 @@ require (
 	github.com/jdkato/prose v1.2.1
 	github.com/kylelemons/godebug v1.1.0
 	github.com/kyokomi/emoji/v2 v2.2.8
+	github.com/litao91/goldmark-mathjax v0.0.0-20191101121019-011def32b12f
 	github.com/magefile/mage v1.11.0
 	github.com/mattn/go-isatty v0.0.13
 	github.com/miekg/mmark v1.3.6
