@@ -30,11 +30,11 @@ import (
 
 	"github.com/spf13/afero"
 
+	mathjax "github.com/XGFan/goldmark-mathjax"
 	"github.com/gohugoio/hugo/hugofs"
 	"github.com/gohugoio/hugo/markup/converter"
 	"github.com/gohugoio/hugo/markup/highlight"
 	"github.com/gohugoio/hugo/markup/tableofcontents"
-	mathjax "github.com/litao91/goldmark-mathjax"
 	"github.com/yuin/goldmark"
 	hl "github.com/yuin/goldmark-highlighting"
 	"github.com/yuin/goldmark/extension"

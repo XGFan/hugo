@@ -4,6 +4,7 @@ require (
 	github.com/BurntSushi/locker v0.0.0-20171006230638-a6e239ea1c69
 	github.com/PuerkitoBio/purell v1.1.1
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
+	github.com/XGFan/goldmark-mathjax v0.0.0-20211108065740-e056b2207a5a // indirect
 	github.com/alecthomas/chroma v0.9.4
 	github.com/armon/go-radix v1.0.0
 	github.com/aws/aws-sdk-go v1.41.14
@@ -33,7 +34,6 @@ require (
 	github.com/jdkato/prose v1.2.1
 	github.com/kylelemons/godebug v1.1.0
 	github.com/kyokomi/emoji/v2 v2.2.8
-	github.com/litao91/goldmark-mathjax v0.0.0-20191101121019-011def32b12f
 	github.com/magefile/mage v1.11.0
 	github.com/mattn/go-isatty v0.0.14
 	github.com/miekg/mmark v1.3.6
